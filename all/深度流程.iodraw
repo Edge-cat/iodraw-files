@@ -58,7 +58,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AfYIpRKJViaRoIj6oQ5R-16" value="Calculate Regional Average Color Position" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;strokeWidth=3;fillColor=#FFFF99;gradientColor=#ffffff;gradientDirection=east;" parent="1" vertex="1">
-          <mxGeometry x="20" y="250" width="235" height="20" as="geometry" />
+          <mxGeometry x="20" y="250" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AfYIpRKJViaRoIj6oQ5R-18" value="&lt;b&gt;Ranging&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="10" y="190" width="60" height="20" as="geometry" />
@@ -73,7 +73,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AfYIpRKJViaRoIj6oQ5R-21" value="Ingesting multiple sets of data to adopt mean smoothing and Kalman rate wave improvement with high accuracy" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;strokeWidth=3;fillColor=#FFCCCC;gradientColor=#ffffff;gradientDirection=south;" parent="1" vertex="1">
-          <mxGeometry x="350" y="230" width="240" height="60" as="geometry" />
+          <mxGeometry x="350" y="230" width="240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AfYIpRKJViaRoIj6oQ5R-22" value="The ranging results are provided to the fusion module as modal inputs" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;strokeWidth=3;fillColor=#FFCCCC;gradientColor=#ffffff;gradientDirection=south;" parent="1" vertex="1">
           <mxGeometry x="350" y="310" width="240" height="60" as="geometry" />
