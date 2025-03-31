@@ -36,6 +36,11 @@
         <mxCell id="mm6hHTC4AVJtSrX4EuxC-30" value="&lt;font&gt;Depth video&lt;br&gt;steram&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;gradientColor=#ffffff;strokeColor=#A9C4EB;fillColor=#D4E1F5;dashed=1;dashPattern=1 2;fontColor=#1A1A1A;fontStyle=1;horizontal=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="1160" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="dRuSv-_LGAl0l4cj4s-P-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#7EA6E0;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#1A1A1A;fontStyle=1;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="mm6hHTC4AVJtSrX4EuxC-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="1050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mm6hHTC4AVJtSrX4EuxC-32" value="&lt;font&gt;Vehicle 3D dynamic data&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;gradientColor=#FFFFFF;strokeColor=#A9C4EB;fillColor=#D4E1F5;dashed=1;dashPattern=1 1;fontColor=#1A1A1A;fontStyle=1;horizontal=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="1030" width="100" height="40" as="geometry" />
         </mxCell>
@@ -93,7 +98,11 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dRuSv-_LGAl0l4cj4s-P-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#7EA6E0;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#1A1A1A;fontStyle=1;labelBackgroundColor=default;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="mm6hHTC4AVJtSrX4EuxC-3" target="mm6hHTC4AVJtSrX4EuxC-28">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="1095" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="mm6hHTC4AVJtSrX4EuxC-3" value="&lt;font&gt;Monocular depth camera&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;gradientColor=#ffffff;gradientDirection=east;strokeColor=#A9C4EB;fillColor=#D4E1F5;fontColor=#1A1A1A;fontStyle=1;horizontal=1;" parent="1" vertex="1">
           <mxGeometry x="101" y="1075" width="80" height="40" as="geometry" />
