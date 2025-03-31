@@ -13,7 +13,7 @@
         <mxCell id="mm6hHTC4AVJtSrX4EuxC-39" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;gradientColor=#FFFFFF;fontColor=#1A1A1A;fontStyle=1;horizontal=1;fillColor=none;strokeColor=#B3B3B3;" parent="1" vertex="1">
           <mxGeometry x="30" y="990" width="410" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="mm6hHTC4AVJtSrX4EuxC-59" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;strokeWidth=3;gradientColor=#FFFFFF;fillColor=#D4E1F5;strokeColor=#A9C4EB;flipH=0;fontColor=#1A1A1A;fontStyle=1;horizontal=1;" parent="1" vertex="1">
+        <mxCell id="mm6hHTC4AVJtSrX4EuxC-59" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;strokeWidth=3;gradientColor=#FFFFFF;fillColor=#F8CECC;strokeColor=#F19C99;flipH=0;fontColor=#1A1A1A;fontStyle=1;horizontal=1;rounded=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="70" y="1000" width="121" height="125" as="geometry" />
         </mxCell>
         <mxCell id="mm6hHTC4AVJtSrX4EuxC-28" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;gradientColor=#ffffff;strokeColor=#A9C4EB;fillColor=#D4E1F5;dashed=1;dashPattern=1 1;fontColor=#1A1A1A;fontStyle=1;horizontal=1;" parent="1" vertex="1">
