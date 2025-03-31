@@ -63,7 +63,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mm6hHTC4AVJtSrX4EuxC-35" value="&lt;font&gt;Collision prediction&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;gradientColor=#FFFFFF;strokeColor=#F19C99;fillColor=#F8CECC;fontColor=#1A1A1A;fontStyle=1;horizontal=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="930" width="123" height="20" as="geometry" />
+          <mxGeometry x="473.5" y="1100" width="123" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mm6hHTC4AVJtSrX4EuxC-36" value="&lt;font&gt;3D velocimetry&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;gradientColor=#FFFFFF;fillColor=#F8CECC;strokeColor=#F19C99;fontColor=#1A1A1A;fontStyle=1;horizontal=1;" parent="1" vertex="1">
           <mxGeometry x="491.3" y="1070" width="100" height="20" as="geometry" />
@@ -75,7 +75,7 @@
           <mxGeometry x="-40" y="1105" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mm6hHTC4AVJtSrX4EuxC-45" value="&lt;font&gt;Phase Tracing Calculation of IMU Data and Velocity Measurement Data&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;gradientColor=#FFFFFF;strokeColor=#F19C99;fillColor=#F8CECC;fontColor=#1A1A1A;fontStyle=1;horizontal=1;" parent="1" vertex="1">
-          <mxGeometry x="681" y="880" width="120" height="60" as="geometry" />
+          <mxGeometry x="475" y="1155" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mm6hHTC4AVJtSrX4EuxC-50" value="&lt;font&gt;YOLO-ST&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#F19C99;strokeWidth=3;fillColor=#F8CECC;gradientColor=#FFFFFF;fontColor=#1A1A1A;fontStyle=1;horizontal=1;" parent="1" vertex="1">
           <mxGeometry x="608.4" y="1010" width="72.6" height="20" as="geometry" />
