@@ -49,7 +49,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mm6hHTC4AVJtSrX4EuxC-33" value="&lt;font&gt;RGB detect&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;gradientColor=#FFFFFF;strokeColor=#F19C99;fillColor=#F8CECC;fontColor=#1A1A1A;fontStyle=1;horizontal=1;" parent="1" vertex="1">
-          <mxGeometry x="510" y="1010" width="81.3" height="20" as="geometry" />
+          <mxGeometry x="490" y="1010" width="101.3" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dRuSv-_LGAl0l4cj4s-P-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#EA6B66;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#1A1A1A;fontStyle=1;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="mm6hHTC4AVJtSrX4EuxC-34" target="mm6hHTC4AVJtSrX4EuxC-53">
           <mxGeometry relative="1" as="geometry" />
@@ -108,6 +108,9 @@
         </mxCell>
         <mxCell id="mm6hHTC4AVJtSrX4EuxC-3" value="&lt;font&gt;Monocular depth camera&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;gradientColor=#ffffff;gradientDirection=east;strokeColor=#A9C4EB;fillColor=#D4E1F5;fontColor=#1A1A1A;fontStyle=1;horizontal=1;" parent="1" vertex="1">
           <mxGeometry x="101" y="1075" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dRuSv-_LGAl0l4cj4s-P-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=15;entryDy=15;entryPerimeter=0;" edge="1" parent="1" source="mm6hHTC4AVJtSrX4EuxC-32" target="dRuSv-_LGAl0l4cj4s-P-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
