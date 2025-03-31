@@ -104,7 +104,7 @@
           <mxGeometry x="80" y="240" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mm6hHTC4AVJtSrX4EuxC-47" value="&lt;font&gt;RGB and deep fusion velocimetry&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#F19C99;strokeWidth=3;fillColor=#F8CECC;gradientColor=#FFFFFF;fontColor=#1A1A1A;fontStyle=1;horizontal=1;" parent="1" vertex="1">
-          <mxGeometry x="707" y="800" width="120" height="35" as="geometry" />
+          <mxGeometry x="561.3" y="742.5" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="mm6hHTC4AVJtSrX4EuxC-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=4;strokeColor=#F19C99;fontColor=#1A1A1A;fontStyle=1;horizontal=1;" parent="1" source="mm6hHTC4AVJtSrX4EuxC-36" target="mm6hHTC4AVJtSrX4EuxC-47" edge="1">
           <mxGeometry relative="1" as="geometry">
