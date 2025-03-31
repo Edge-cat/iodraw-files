@@ -29,7 +29,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mm6hHTC4AVJtSrX4EuxC-28" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;gradientColor=#ffffff;strokeColor=#A9C4EB;fillColor=#D4E1F5;dashed=1;dashPattern=1 1;fontColor=#1A1A1A;fontStyle=1;horizontal=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="1010" width="120" height="160" as="geometry" />
+          <mxGeometry x="40" y="1010" width="120" height="150" as="geometry" />
         </mxCell>
         <mxCell id="mm6hHTC4AVJtSrX4EuxC-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#7EA6E0;strokeWidth=4;fontColor=#1A1A1A;fontStyle=1;" parent="1" source="mm6hHTC4AVJtSrX4EuxC-3" target="mm6hHTC4AVJtSrX4EuxC-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -49,10 +49,10 @@
           <mxGeometry x="325.35" y="1140" width="250.6" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mm6hHTC4AVJtSrX4EuxC-29" value="&lt;font&gt;RGB video streaming&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;gradientColor=#ffffff;strokeColor=#A9C4EB;fillColor=#D4E1F5;dashed=1;dashPattern=1 2;fontColor=#1A1A1A;fontStyle=1;horizontal=1;" parent="1" vertex="1">
-          <mxGeometry x="50" y="1030" width="100" height="50" as="geometry" />
+          <mxGeometry x="50" y="1040" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mm6hHTC4AVJtSrX4EuxC-30" value="&lt;font&gt;Depth video&lt;br&gt;steram&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;gradientColor=#ffffff;strokeColor=#A9C4EB;fillColor=#D4E1F5;dashed=1;dashPattern=1 2;fontColor=#1A1A1A;fontStyle=1;horizontal=1;" parent="1" vertex="1">
-          <mxGeometry x="50" y="1100" width="100" height="60" as="geometry" />
+          <mxGeometry x="50" y="1100" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mm6hHTC4AVJtSrX4EuxC-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=2;strokeColor=#7EA6E0;dashed=1;fontColor=#1A1A1A;fontStyle=1;horizontal=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="mm6hHTC4AVJtSrX4EuxC-32" edge="1">
           <mxGeometry relative="1" as="geometry">
