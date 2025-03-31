@@ -40,7 +40,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AfYIpRKJViaRoIj6oQ5R-10" value="DPT extracts feature pixel set" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;strokeWidth=3;fillColor=#99CCFF;gradientColor=#ffffff;gradientDirection=north;" parent="1" vertex="1">
-          <mxGeometry x="520" y="190" width="240" height="60" as="geometry" />
+          <mxGeometry x="400" y="190" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AfYIpRKJViaRoIj6oQ5R-11" value="&lt;b&gt;Capture input&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="505" y="90" width="90" height="20" as="geometry" />
@@ -58,7 +58,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AfYIpRKJViaRoIj6oQ5R-16" value="Calculate Regional Average Color Position" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;strokeWidth=3;fillColor=#FFFF99;gradientColor=#ffffff;gradientDirection=east;" parent="1" vertex="1">
-          <mxGeometry x="15" y="330" width="235" height="60" as="geometry" />
+          <mxGeometry x="68.5" y="330" width="235" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AfYIpRKJViaRoIj6oQ5R-18" value="&lt;b&gt;Ranging&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="8.5" y="230" width="60" height="20" as="geometry" />
@@ -76,7 +76,7 @@
           <mxGeometry x="350" y="330" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AfYIpRKJViaRoIj6oQ5R-22" value="The ranging results are provided to the fusion module as modal inputs" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;strokeWidth=3;fillColor=#FFCCCC;gradientColor=#ffffff;gradientDirection=south;" parent="1" vertex="1">
-          <mxGeometry x="350" y="410" width="240" height="60" as="geometry" />
+          <mxGeometry x="220" y="410" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
