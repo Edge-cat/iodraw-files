@@ -88,7 +88,7 @@
           <mxGeometry x="350" y="300" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x5RVZexTkWOLmm911m_D-4" value="The optimal parameters a, b, c(6) are derived via the least squares method by fitting the mapping relationship with polynomials.&amp;nbsp;&amp;nbsp;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="35" y="420" width="615" height="30" as="geometry" />
+          <mxGeometry x="250" y="40" width="615" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
