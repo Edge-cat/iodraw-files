@@ -86,7 +86,7 @@
         <mxCell id="mm6hHTC4AVJtSrX4EuxC-47" value="&lt;font&gt;RGB and deep fusion velocimetry&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#F19C99;strokeWidth=3;fillColor=#F8CECC;gradientColor=#FFFFFF;fontColor=#1A1A1A;fontStyle=1;horizontal=1;" parent="1" vertex="1">
           <mxGeometry x="658.4" y="1100" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mm6hHTC4AVJtSrX4EuxC-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=4;strokeColor=#EA6B66;fontColor=#1A1A1A;fontStyle=1;horizontal=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;" parent="1" source="mm6hHTC4AVJtSrX4EuxC-36" target="mm6hHTC4AVJtSrX4EuxC-47" edge="1">
+        <mxCell id="mm6hHTC4AVJtSrX4EuxC-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=4;strokeColor=#7EA6E0;fontColor=#1A1A1A;fontStyle=1;horizontal=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;startArrow=none;startFill=0;" parent="1" source="mm6hHTC4AVJtSrX4EuxC-36" target="mm6hHTC4AVJtSrX4EuxC-47" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="649" y="1190" as="targetPoint" />
             <mxPoint x="649" y="1120" as="sourcePoint" />
