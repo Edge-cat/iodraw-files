@@ -109,8 +109,8 @@
         <mxCell id="mm6hHTC4AVJtSrX4EuxC-3" value="&lt;font&gt;Monocular depth camera&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;gradientColor=#ffffff;gradientDirection=east;strokeColor=#A9C4EB;fillColor=#D4E1F5;fontColor=#1A1A1A;fontStyle=1;horizontal=1;" parent="1" vertex="1">
           <mxGeometry x="101" y="1075" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dRuSv-_LGAl0l4cj4s-P-26" value="" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="980" width="80" height="100" as="geometry" />
+        <mxCell id="dRuSv-_LGAl0l4cj4s-P-26" value="" style="shape=card;whiteSpace=wrap;html=1;rounded=1;strokeColor=#F19C99;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#1A1A1A;fontStyle=1;fillColor=#F8CECC;gradientColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="570" y="900" width="80" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
