@@ -80,7 +80,7 @@
         <mxCell id="mm6hHTC4AVJtSrX4EuxC-45" value="&lt;font&gt;Phase Tracing Calculation of IMU Data and Velocity Measurement Data&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;gradientColor=#FFFFFF;strokeColor=#F19C99;fillColor=#F8CECC;fontColor=#1A1A1A;fontStyle=1;horizontal=1;" parent="1" vertex="1">
           <mxGeometry x="525" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mm6hHTC4AVJtSrX4EuxC-50" value="&lt;font&gt;YOLO-ST&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#F19C99;strokeWidth=3;fillColor=#F8CECC;gradientColor=#FFFFFF;fontColor=#1A1A1A;fontStyle=1;horizontal=1;" parent="1" vertex="1">
+        <mxCell id="mm6hHTC4AVJtSrX4EuxC-50" value="&lt;font&gt;YOLO-ST&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#F19C99;strokeWidth=3;fillColor=#F8CECC;gradientColor=#FFFFFF;fontColor=#1A1A1A;fontStyle=1;horizontal=1;gradientDirection=west;" parent="1" vertex="1">
           <mxGeometry x="658.4" y="1010" width="121.6" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mm6hHTC4AVJtSrX4EuxC-53" value="&lt;font&gt;DPT&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#F19C99;strokeWidth=3;fillColor=#F8CECC;gradientColor=#FFFFFF;fontColor=#1A1A1A;fontStyle=1;horizontal=1;" parent="1" vertex="1">
