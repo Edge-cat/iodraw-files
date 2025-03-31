@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dRuSv-_LGAl0l4cj4s-P-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;strokeColor=#F19C99;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#1A1A1A;fontStyle=1;gradientColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="380" y="680" width="140" height="130" as="geometry" />
+          <mxGeometry x="382" y="650" width="140" height="130" as="geometry" />
         </mxCell>
         <mxCell id="mm6hHTC4AVJtSrX4EuxC-39" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;gradientColor=#FFFFFF;fontColor=#1A1A1A;fontStyle=1;horizontal=1;fillColor=none;strokeColor=#B3B3B3;" parent="1" vertex="1">
           <mxGeometry x="170" y="970" width="580" height="220" as="geometry" />
@@ -69,24 +69,24 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mm6hHTC4AVJtSrX4EuxC-33" value="&lt;font&gt;RGB detect&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;gradientColor=#FFFFFF;strokeColor=#F19C99;fillColor=#F8CECC;fontColor=#1A1A1A;fontStyle=1;horizontal=1;" parent="1" vertex="1">
-          <mxGeometry x="387" y="780" width="123" height="20" as="geometry" />
+          <mxGeometry x="389" y="750" width="123" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dRuSv-_LGAl0l4cj4s-P-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#EA6B66;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#1A1A1A;fontStyle=1;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="mm6hHTC4AVJtSrX4EuxC-34" target="mm6hHTC4AVJtSrX4EuxC-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mm6hHTC4AVJtSrX4EuxC-34" value="&lt;font&gt;Depth estimation&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;gradientColor=#FFFFFF;fillColor=#F8CECC;strokeColor=#F19C99;fontColor=#1A1A1A;fontStyle=1;horizontal=1;" parent="1" vertex="1">
-          <mxGeometry x="388" y="720" width="122" height="20" as="geometry" />
+          <mxGeometry x="390" y="690" width="122" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mm6hHTC4AVJtSrX4EuxC-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=4;strokeColor=#EA6B66;fontColor=#1A1A1A;fontStyle=1;horizontal=1;" parent="1" source="mm6hHTC4AVJtSrX4EuxC-35" target="mm6hHTC4AVJtSrX4EuxC-45" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="700" y="700" as="targetPoint" />
+            <mxPoint x="702" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mm6hHTC4AVJtSrX4EuxC-35" value="&lt;font&gt;Collision prediction&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;gradientColor=#FFFFFF;strokeColor=#F19C99;fillColor=#F8CECC;fontColor=#1A1A1A;fontStyle=1;horizontal=1;" parent="1" vertex="1">
-          <mxGeometry x="387" y="690" width="123" height="20" as="geometry" />
+          <mxGeometry x="389" y="660" width="123" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mm6hHTC4AVJtSrX4EuxC-36" value="&lt;font&gt;3D velocimetry&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;gradientColor=#FFFFFF;fillColor=#F8CECC;strokeColor=#F19C99;fontColor=#1A1A1A;fontStyle=1;horizontal=1;" parent="1" vertex="1">
-          <mxGeometry x="388" y="750" width="122" height="20" as="geometry" />
+          <mxGeometry x="390" y="720" width="122" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mm6hHTC4AVJtSrX4EuxC-40" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;gradientColor=#FFFFFF;fillColor=none;strokeColor=#7EA6E0;dashed=1;fontColor=#1A1A1A;fontStyle=1;horizontal=1;" parent="1" vertex="1">
           <mxGeometry x="486" y="1140" width="30" height="40" as="geometry" />
@@ -95,24 +95,24 @@
           <mxGeometry x="100" y="1075" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mm6hHTC4AVJtSrX4EuxC-45" value="&lt;font&gt;Phase Tracing Calculation of IMU Data and Velocity Measurement Data&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;gradientColor=#FFFFFF;strokeColor=#F19C99;fillColor=#F8CECC;fontColor=#1A1A1A;fontStyle=1;horizontal=1;" parent="1" vertex="1">
-          <mxGeometry x="218" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mm6hHTC4AVJtSrX4EuxC-50" value="&lt;font&gt;YOLO-ST&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#F19C99;strokeWidth=3;fillColor=#F8CECC;gradientColor=#FFFFFF;fontColor=#1A1A1A;fontStyle=1;horizontal=1;" parent="1" vertex="1">
-          <mxGeometry x="561.3" y="780" width="120" height="20" as="geometry" />
+          <mxGeometry x="563.3" y="750" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mm6hHTC4AVJtSrX4EuxC-53" value="&lt;font&gt;DPT&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#F19C99;strokeWidth=3;fillColor=#F8CECC;gradientColor=#FFFFFF;fontColor=#1A1A1A;fontStyle=1;horizontal=1;" parent="1" vertex="1">
-          <mxGeometry x="561.3" y="720" width="121.3" height="20" as="geometry" />
+          <mxGeometry x="563.3" y="690" width="121.3" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mm6hHTC4AVJtSrX4EuxC-54" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Software Part&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontStyle=1;horizontal=0;fontColor=#808080;" parent="1" vertex="1">
           <mxGeometry x="80" y="240" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mm6hHTC4AVJtSrX4EuxC-47" value="&lt;font&gt;RGB and deep fusion velocimetry&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#F19C99;strokeWidth=3;fillColor=#F8CECC;gradientColor=#FFFFFF;fontColor=#1A1A1A;fontStyle=1;horizontal=1;" parent="1" vertex="1">
-          <mxGeometry x="561.3" y="750" width="120" height="20" as="geometry" />
+          <mxGeometry x="563.3" y="720" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mm6hHTC4AVJtSrX4EuxC-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=4;strokeColor=#F19C99;fontColor=#1A1A1A;fontStyle=1;horizontal=1;" parent="1" source="mm6hHTC4AVJtSrX4EuxC-36" target="mm6hHTC4AVJtSrX4EuxC-47" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="519" y="870" as="targetPoint" />
-            <mxPoint x="519" y="800" as="sourcePoint" />
+            <mxPoint x="521" y="840" as="targetPoint" />
+            <mxPoint x="521" y="770" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
