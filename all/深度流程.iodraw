@@ -52,7 +52,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AfYIpRKJViaRoIj6oQ5R-15" value="Calculate Regional Average Color Position" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;strokeWidth=3;fillColor=#FFFF99;gradientColor=#ffffff;gradientDirection=east;" parent="1" vertex="1">
-          <mxGeometry x="15" y="250" width="235" height="60" as="geometry" />
+          <mxGeometry x="15" y="290" width="235" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AfYIpRKJViaRoIj6oQ5R-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#B3B3B3;strokeWidth=2;" parent="1" source="AfYIpRKJViaRoIj6oQ5R-16" target="AfYIpRKJViaRoIj6oQ5R-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
