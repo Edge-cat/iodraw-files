@@ -51,9 +51,9 @@
         <mxCell id="mm6hHTC4AVJtSrX4EuxC-30" value="&lt;font&gt;Depth video&lt;br&gt;steram&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;gradientColor=#ffffff;strokeColor=#A9C4EB;fillColor=#D4E1F5;dashed=1;dashPattern=1 2;fontColor=#1A1A1A;fontStyle=1;horizontal=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="1100" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dRuSv-_LGAl0l4cj4s-P-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#7EA6E0;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#1A1A1A;fontStyle=1;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="mm6hHTC4AVJtSrX4EuxC-32">
+        <mxCell id="dRuSv-_LGAl0l4cj4s-P-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mm6hHTC4AVJtSrX4EuxC-32">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="451.3000000000002" y="1010" as="targetPoint" />
+            <mxPoint x="590" y="1050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mm6hHTC4AVJtSrX4EuxC-32" value="&lt;font&gt;Vehicle 3D dynamic data&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;gradientColor=#FFFFFF;strokeColor=#A9C4EB;fillColor=#D4E1F5;dashed=1;dashPattern=1 1;fontColor=#1A1A1A;fontStyle=1;horizontal=1;" parent="1" vertex="1">
