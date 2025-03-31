@@ -42,7 +42,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mm6hHTC4AVJtSrX4EuxC-32" value="&lt;font&gt;Vehicle 3D dynamic data&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;gradientColor=#FFFFFF;strokeColor=#A9C4EB;fillColor=#D4E1F5;dashed=1;dashPattern=1 1;fontColor=#1A1A1A;fontStyle=1;horizontal=1;" parent="1" vertex="1">
-          <mxGeometry x="330" y="1030" width="100" height="40" as="geometry" />
+          <mxGeometry x="210.6" y="1030" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dRuSv-_LGAl0l4cj4s-P-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#F19C99;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#1A1A1A;fontStyle=1;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="mm6hHTC4AVJtSrX4EuxC-33" target="mm6hHTC4AVJtSrX4EuxC-50">
           <mxGeometry relative="1" as="geometry" />
@@ -67,7 +67,7 @@
         <mxCell id="mm6hHTC4AVJtSrX4EuxC-36" value="&lt;font&gt;3D velocimetry&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;gradientColor=#FFFFFF;fillColor=#F8CECC;strokeColor=#F19C99;fontColor=#1A1A1A;fontStyle=1;horizontal=1;" parent="1" vertex="1">
           <mxGeometry x="528" y="1145" width="122" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="mm6hHTC4AVJtSrX4EuxC-40" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;gradientColor=#FFFFFF;fillColor=none;strokeColor=#994C00;dashed=1;fontColor=#1A1A1A;fontStyle=1;horizontal=1;" parent="1" vertex="1">
+        <mxCell id="mm6hHTC4AVJtSrX4EuxC-40" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;gradientColor=#FFFFFF;fillColor=none;strokeColor=#7EA6E0;dashed=1;fontColor=#1A1A1A;fontStyle=1;horizontal=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="1170" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mm6hHTC4AVJtSrX4EuxC-42" value="&lt;font style=&quot;font-size: 24px&quot; face=&quot;Times New Roman&quot;&gt;Hardware Part&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontStyle=1;horizontal=0;fontColor=#808080;" parent="1" vertex="1">
