@@ -100,7 +100,8 @@
         <mxCell id="dRuSv-_LGAl0l4cj4s-P-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#7EA6E0;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#1A1A1A;fontStyle=1;labelBackgroundColor=default;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="mm6hHTC4AVJtSrX4EuxC-3" target="mm6hHTC4AVJtSrX4EuxC-28">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="330" y="1095" />
+              <mxPoint x="310" y="1095" />
+              <mxPoint x="310" y="1150" />
             </Array>
           </mxGeometry>
         </mxCell>
