@@ -54,7 +54,7 @@
         <mxCell id="mm6hHTC4AVJtSrX4EuxC-33" value="&lt;font&gt;RGB detect&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;gradientColor=#FFFFFF;strokeColor=#F19C99;fillColor=#F8CECC;fontColor=#1A1A1A;fontStyle=1;horizontal=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="1010" width="101.3" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="dRuSv-_LGAl0l4cj4s-P-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#EA6B66;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#1A1A1A;fontStyle=1;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="mm6hHTC4AVJtSrX4EuxC-34" target="mm6hHTC4AVJtSrX4EuxC-53">
+        <mxCell id="dRuSv-_LGAl0l4cj4s-P-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#F19C99;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#1A1A1A;fontStyle=1;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="mm6hHTC4AVJtSrX4EuxC-34" target="mm6hHTC4AVJtSrX4EuxC-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mm6hHTC4AVJtSrX4EuxC-34" value="&lt;font&gt;Depth estimation&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;gradientColor=#FFFFFF;fillColor=#F8CECC;strokeColor=#F19C99;fontColor=#1A1A1A;fontStyle=1;horizontal=1;" parent="1" vertex="1">
