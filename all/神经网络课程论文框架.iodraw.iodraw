@@ -21,9 +21,6 @@
             <mxPoint x="630" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IIi3D1vKagUlkLvtEHmu-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="2z8R_Hm_RZ3ocgZr2SeG-9" target="2z8R_Hm_RZ3ocgZr2SeG-76">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-9" value="YOLO11N目标检测" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=#B3B3B3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFF4C3;" parent="1" vertex="1">
           <mxGeometry x="-160" y="585" width="120" height="30" as="geometry" />
         </mxCell>
