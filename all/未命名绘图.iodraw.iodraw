@@ -46,9 +46,9 @@
           <mxGeometry x="220" y="300" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-15" value="燃油车" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="520" width="50" height="55" as="geometry" />
+          <mxGeometry x="170" y="320" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-18" value="新能源车" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=0;" vertex="1" parent="1">
+        <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-18" value="新能源车" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="413.5" y="440" width="20" height="55" as="geometry" />
         </mxCell>
         <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2z8R_Hm_RZ3ocgZr2SeG-28" target="2z8R_Hm_RZ3ocgZr2SeG-31">
