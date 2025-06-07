@@ -330,7 +330,7 @@
         <mxCell id="IIi3D1vKagUlkLvtEHmu-82" value="目标检测模块" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;horizontal=0;fontStyle=1;fontColor=#4D4D4D;" vertex="1" parent="1">
           <mxGeometry x="10" y="555" width="40" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="IIi3D1vKagUlkLvtEHmu-87" value="车牌信息" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=#B3B3B3;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#EFF2E5;" vertex="1" parent="1">
+        <mxCell id="IIi3D1vKagUlkLvtEHmu-87" value="detect-box" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=#B3B3B3;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#EFF2E5;" vertex="1" parent="1">
           <mxGeometry x="150" y="270" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
