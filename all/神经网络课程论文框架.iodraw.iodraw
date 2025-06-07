@@ -126,8 +126,8 @@
             <mxPoint x="160" y="340" as="targetPoint" />
             <Array as="points">
               <mxPoint x="30" y="300" />
-              <mxPoint x="163" y="300" />
-              <mxPoint x="163" y="339" />
+              <mxPoint x="210" y="300" />
+              <mxPoint x="210" y="339" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -387,7 +387,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IIi3D1vKagUlkLvtEHmu-129" value="目标检测模块" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;horizontal=0;fontStyle=1;fontColor=#4D4D4D;" vertex="1" parent="1">
-          <mxGeometry x="20" y="565" width="40" height="90" as="geometry" />
+          <mxGeometry x="140" y="295" width="40" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
