@@ -299,8 +299,11 @@
         <mxCell id="IIi3D1vKagUlkLvtEHmu-55" value="Final output processing" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=12;fontColor=#4D4D4D;fontStyle=1;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="1025" y="895" width="120" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="IIi3D1vKagUlkLvtEHmu-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#B3B3B3;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="IIi3D1vKagUlkLvtEHmu-56" target="IIi3D1vKagUlkLvtEHmu-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IIi3D1vKagUlkLvtEHmu-56" value="光学摄像头" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;strokeWidth=2;fillColor=#FF0080;strokeColor=#B3B3B3;" vertex="1" parent="1">
-          <mxGeometry x="-290" y="465" width="80" height="60" as="geometry" />
+          <mxGeometry x="-290" y="460" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IIi3D1vKagUlkLvtEHmu-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#B3B3B3;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="IIi3D1vKagUlkLvtEHmu-58" target="2z8R_Hm_RZ3ocgZr2SeG-5">
           <mxGeometry relative="1" as="geometry" />
