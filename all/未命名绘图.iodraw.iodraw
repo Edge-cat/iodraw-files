@@ -49,7 +49,7 @@
           <mxGeometry x="170" y="320" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-18" value="新能源车" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="413.5" y="440" width="20" height="55" as="geometry" />
+          <mxGeometry x="340" y="320" width="56.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2z8R_Hm_RZ3ocgZr2SeG-28" target="2z8R_Hm_RZ3ocgZr2SeG-31">
           <mxGeometry relative="1" as="geometry">
@@ -74,7 +74,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-31" value="box的x双坐标&lt;div&gt;通过计数线&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="360" y="740" width="120" height="50" as="geometry" />
+          <mxGeometry x="210" y="490" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-40" value="x1，x2相位计算" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="360" y="820" width="120" height="50" as="geometry" />
