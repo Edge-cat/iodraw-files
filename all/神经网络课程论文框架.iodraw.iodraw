@@ -348,7 +348,7 @@
         <mxCell id="IIi3D1vKagUlkLvtEHmu-96" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;strokeColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="-330" y="280" width="410" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="IIi3D1vKagUlkLvtEHmu-97" value="数据采集" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;horizontal=0;fontStyle=1;fontColor=#4D4D4D;" vertex="1" parent="1">
+        <mxCell id="IIi3D1vKagUlkLvtEHmu-97" value="信息识别" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;horizontal=0;fontStyle=1;fontColor=#4D4D4D;" vertex="1" parent="1">
           <mxGeometry x="-440" y="400" width="40" height="60" as="geometry" />
         </mxCell>
       </root>
