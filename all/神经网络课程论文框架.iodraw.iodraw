@@ -95,7 +95,7 @@
           <mxGeometry x="-310" y="320" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-79" value="车牌信息" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=#B3B3B3;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#EFF2E5;" parent="1" vertex="1">
-          <mxGeometry x="-200" y="370" width="80" height="50" as="geometry" />
+          <mxGeometry x="-200" y="250" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="IIi3D1vKagUlkLvtEHmu-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=none;strokeColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="1065" y="800" width="340" height="200" as="geometry" />
@@ -325,7 +325,7 @@
         <mxCell id="IIi3D1vKagUlkLvtEHmu-87" value="detect-box" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=#B3B3B3;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#EFF2E5;" vertex="1" parent="1">
           <mxGeometry x="-140" y="510" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="IIi3D1vKagUlkLvtEHmu-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2z8R_Hm_RZ3ocgZr2SeG-9" target="IIi3D1vKagUlkLvtEHmu-87">
+        <mxCell id="IIi3D1vKagUlkLvtEHmu-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#B3B3B3;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="2z8R_Hm_RZ3ocgZr2SeG-9" target="IIi3D1vKagUlkLvtEHmu-87">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IIi3D1vKagUlkLvtEHmu-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.527;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#B3B3B3;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="IIi3D1vKagUlkLvtEHmu-87" target="IIi3D1vKagUlkLvtEHmu-67">
