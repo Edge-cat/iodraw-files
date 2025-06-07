@@ -49,7 +49,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-28" value="燃油车" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="120" y="360" width="80" height="60" as="geometry" />
+          <mxGeometry x="120" y="380" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2z8R_Hm_RZ3ocgZr2SeG-29" target="2z8R_Hm_RZ3ocgZr2SeG-31">
           <mxGeometry relative="1" as="geometry" />
@@ -65,12 +65,6 @@
         </mxCell>
         <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2z8R_Hm_RZ3ocgZr2SeG-31" target="2z8R_Hm_RZ3ocgZr2SeG-40">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-49" value="▲x1-▲x2=-▲" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="550" width="80" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-50" value="▲x1-▲x2=▲" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="490" width="80" height="10" as="geometry" />
         </mxCell>
         <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-52" value="label=Fuel" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
           <mxGeometry x="30" y="420" width="80" height="80" as="geometry" />
@@ -90,10 +84,10 @@
         <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-57" value="出库" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
           <mxGeometry x="480" y="670" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-63" value="燃油车" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="160" y="584" width="80" height="60" as="geometry" />
+        <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-63" value="▲x1-▲x2=-▲" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="140" y="560" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-64" value="燃油车" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-64" value="▲x1-▲x2=▲" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="400" y="570" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
