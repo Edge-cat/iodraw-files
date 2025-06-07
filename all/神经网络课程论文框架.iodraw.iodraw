@@ -230,6 +230,9 @@
         <mxCell id="2zNhirBuTjw6j_SKWOC9-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2zNhirBuTjw6j_SKWOC9-10" target="2zNhirBuTjw6j_SKWOC9-16">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="900" y="760" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="820" y="750" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="2zNhirBuTjw6j_SKWOC9-10" value="conf＞0.5？" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#B3B3B3;fillColor=#CCFFCC;" vertex="1" parent="1">
@@ -238,8 +241,8 @@
         <mxCell id="2zNhirBuTjw6j_SKWOC9-12" value="拼接文本" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFF4C3;" vertex="1" parent="1">
           <mxGeometry x="900" y="620" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2zNhirBuTjw6j_SKWOC9-16" value="返回“未识别”" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="730" width="80" height="60" as="geometry" />
+        <mxCell id="2zNhirBuTjw6j_SKWOC9-16" value="返回“未识别”" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFF4C3;" vertex="1" parent="1">
+          <mxGeometry x="900" y="740" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
