@@ -328,6 +328,9 @@
         <mxCell id="IIi3D1vKagUlkLvtEHmu-55" value="Final output processing" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=12;fontColor=#4D4D4D;fontStyle=1;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="495" y="1125" width="120" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="IIi3D1vKagUlkLvtEHmu-56" value="Vehicle IMU" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;strokeWidth=2;fillColor=#FF0080;strokeColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="325" y="1050" width="80" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
