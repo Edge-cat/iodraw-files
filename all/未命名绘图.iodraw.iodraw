@@ -90,6 +90,12 @@
         <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-57" value="出库" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
           <mxGeometry x="480" y="670" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-63" value="燃油车" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="160" y="584" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-64" value="燃油车" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="400" y="570" width="80" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
