@@ -66,6 +66,11 @@
         <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-31" value="box的x双坐标&lt;div&gt;通过计数线&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="220" y="430" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2z8R_Hm_RZ3ocgZr2SeG-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-40" value="x1，x2相位计算" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="220" y="510" width="120" height="50" as="geometry" />
         </mxCell>
@@ -75,7 +80,7 @@
         <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-49" value="▲x1-▲x2=-▲" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="450" width="10" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-50" value="▲x1-▲x2=▲" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-50" value="▲x1-▲x2=▲" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="520" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-52" value="label=Fuel" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
@@ -94,10 +99,7 @@
           <mxGeometry x="20" y="640" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-57" value="出库" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry x="450" y="560" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=25;entryDy=0;entryPerimeter=0;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="2z8R_Hm_RZ3ocgZr2SeG-40" target="2z8R_Hm_RZ3ocgZr2SeG-57">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="480" y="670" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
