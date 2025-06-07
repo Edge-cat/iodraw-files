@@ -67,7 +67,10 @@
           <mxGeometry x="220" y="430" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-40" value="x1，x2相位计算" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="360" y="820" width="120" height="50" as="geometry" />
+          <mxGeometry x="220" y="510" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2z8R_Hm_RZ3ocgZr2SeG-31" target="2z8R_Hm_RZ3ocgZr2SeG-40">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
