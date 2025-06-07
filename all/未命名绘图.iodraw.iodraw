@@ -72,6 +72,9 @@
         <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-22" value="label=Electric" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="450" y="640" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-25" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="380" y="460" width="60" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
