@@ -356,7 +356,7 @@
         <mxCell id="IIi3D1vKagUlkLvtEHmu-97" value="信息识别" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;horizontal=0;fontStyle=1;fontColor=#4D4D4D;" vertex="1" parent="1">
           <mxGeometry x="-340" y="310" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IIi3D1vKagUlkLvtEHmu-115" value="车牌记录表" style="shape=card;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#EFF2E5;" vertex="1" parent="1">
+        <mxCell id="IIi3D1vKagUlkLvtEHmu-115" value="车牌记录表" style="shape=card;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE6CC;" vertex="1" parent="1">
           <mxGeometry x="170" y="290" width="80" height="100" as="geometry" />
         </mxCell>
       </root>
