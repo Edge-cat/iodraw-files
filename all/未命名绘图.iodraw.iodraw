@@ -72,10 +72,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-49" value="▲x1-▲x2=-▲" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="550" width="80" height="10" as="geometry" />
+          <mxGeometry x="120" y="550" width="80" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-50" value="▲x1-▲x2=▲" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="430" width="10" height="80" as="geometry" />
+        <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-50" value="▲x1-▲x2=▲" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="490" width="80" height="10" as="geometry" />
         </mxCell>
         <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-52" value="label=Fuel" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
           <mxGeometry x="30" y="420" width="80" height="80" as="geometry" />
