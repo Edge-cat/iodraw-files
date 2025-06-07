@@ -20,8 +20,16 @@
         <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-5" value="VedioCapture抽帧" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="230" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2z8R_Hm_RZ3ocgZr2SeG-7" target="2z8R_Hm_RZ3ocgZr2SeG-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-7" value="单帧按比例&lt;div&gt;设置&lt;span style=&quot;background-color: initial;&quot;&gt;计数线&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-9" value="YOLO11N目标检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
