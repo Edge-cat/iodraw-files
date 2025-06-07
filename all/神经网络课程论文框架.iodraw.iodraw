@@ -96,7 +96,7 @@
         <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-73" value="box区域&lt;div&gt;采取capture&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=14;size=0.23;strokeColor=#B3B3B3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#E1D5E7;" parent="1" vertex="1">
           <mxGeometry x="-100" y="310" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IIi3D1vKagUlkLvtEHmu-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2z8R_Hm_RZ3ocgZr2SeG-76" target="2z8R_Hm_RZ3ocgZr2SeG-73">
+        <mxCell id="IIi3D1vKagUlkLvtEHmu-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#B3B3B3;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="2z8R_Hm_RZ3ocgZr2SeG-76" target="2z8R_Hm_RZ3ocgZr2SeG-73">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-76" value="PaddleOCR识别" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#B3B3B3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFF4C3;" parent="1" vertex="1">
@@ -329,6 +329,9 @@
         </mxCell>
         <mxCell id="IIi3D1vKagUlkLvtEHmu-82" value="目标检测模块" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;horizontal=0;fontStyle=1;fontColor=#4D4D4D;" vertex="1" parent="1">
           <mxGeometry x="10" y="555" width="40" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IIi3D1vKagUlkLvtEHmu-87" value="车牌信息" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=#B3B3B3;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#EFF2E5;" vertex="1" parent="1">
+          <mxGeometry x="150" y="270" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
