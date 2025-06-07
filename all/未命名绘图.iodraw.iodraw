@@ -85,7 +85,7 @@
           <mxGeometry x="360" y="740" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-40" value="x1，x2相位计算" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="370" y="840" width="100" height="50" as="geometry" />
+          <mxGeometry x="360" y="820" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
