@@ -329,7 +329,10 @@
           <mxGeometry x="495" y="1125" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IIi3D1vKagUlkLvtEHmu-56" value="光学摄像头" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;strokeWidth=2;fillColor=#FF0080;strokeColor=#B3B3B3;" vertex="1" parent="1">
-          <mxGeometry x="80" y="70" width="80" height="60" as="geometry" />
+          <mxGeometry x="75" y="110" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IIi3D1vKagUlkLvtEHmu-58" value="&lt;b&gt;Viewing angle input&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="210" y="130" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
