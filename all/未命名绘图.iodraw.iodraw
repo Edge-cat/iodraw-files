@@ -33,7 +33,7 @@
             <mxPoint x="420" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-9" value="YOLO11N目标检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-9" value="YOLO11N目标检测" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="360" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2z8R_Hm_RZ3ocgZr2SeG-11" target="2z8R_Hm_RZ3ocgZr2SeG-22">
@@ -73,7 +73,7 @@
           <mxGeometry x="450" y="640" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-28" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="30" y="510" width="100" height="100" as="geometry" />
+          <mxGeometry x="90" y="450" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
