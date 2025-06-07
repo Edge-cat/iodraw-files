@@ -296,6 +296,11 @@
         <mxCell id="IIi3D1vKagUlkLvtEHmu-53" value="Depth input processing" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=12;fontColor=#4D4D4D;fontStyle=1;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="1090" width="120" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="IIi3D1vKagUlkLvtEHmu-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IIi3D1vKagUlkLvtEHmu-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="905" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="IIi3D1vKagUlkLvtEHmu-54" value="IMU data extraction" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=12;fontColor=#4D4D4D;fontStyle=1;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="775" y="895" width="100" height="20" as="geometry" />
         </mxCell>
@@ -349,7 +354,7 @@
           <mxGeometry x="-330" y="280" width="410" height="120" as="geometry" />
         </mxCell>
         <mxCell id="IIi3D1vKagUlkLvtEHmu-97" value="信息识别" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;horizontal=0;fontStyle=1;fontColor=#4D4D4D;" vertex="1" parent="1">
-          <mxGeometry x="-440" y="400" width="40" height="60" as="geometry" />
+          <mxGeometry x="-340" y="310" width="40" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
