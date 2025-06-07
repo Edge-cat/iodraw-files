@@ -38,7 +38,7 @@
         </mxCell>
         <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2z8R_Hm_RZ3ocgZr2SeG-11">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="640" as="targetPoint" />
+            <mxPoint x="350" y="640" as="targetPoint" />
             <Array as="points">
               <mxPoint x="321" y="565" />
             </Array>
@@ -48,7 +48,7 @@
           <mxGeometry x="360" y="530" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-15" value="燃油车" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="570" width="20" height="55" as="geometry" />
+          <mxGeometry x="260" y="570" width="20" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
