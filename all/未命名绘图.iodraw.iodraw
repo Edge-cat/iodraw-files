@@ -44,11 +44,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2z8R_Hm_RZ3ocgZr2SeG-11">
+        <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2z8R_Hm_RZ3ocgZr2SeG-11" target="2z8R_Hm_RZ3ocgZr2SeG-28">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="340" y="640" as="targetPoint" />
             <Array as="points">
               <mxPoint x="340" y="565" />
+              <mxPoint x="340" y="660" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -65,6 +66,10 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="340" y="730" as="targetPoint" />
             <mxPoint x="340" y="700" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="340" y="740" />
+              <mxPoint x="340" y="740" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-22" value="label=Electric" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
