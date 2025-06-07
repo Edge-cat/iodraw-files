@@ -316,14 +316,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IIi3D1vKagUlkLvtEHmu-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#B3B3B3;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="2z8R_Hm_RZ3ocgZr2SeG-29" target="IIi3D1vKagUlkLvtEHmu-67">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="380" y="535" as="sourcePoint" />
-            <mxPoint x="300" y="560" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="IIi3D1vKagUlkLvtEHmu-67" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;strokeColor=#B3B3B3;" vertex="1" parent="1">
-          <mxGeometry x="10" y="445" width="553" height="320" as="geometry" />
+          <mxGeometry x="-6.5" y="950" width="553" height="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
