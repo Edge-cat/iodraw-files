@@ -364,7 +364,7 @@
           <mxGeometry x="-340" y="310" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IIi3D1vKagUlkLvtEHmu-115" value="车牌记录表" style="shape=card;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE6CC;" vertex="1" parent="1">
-          <mxGeometry x="170" y="290" width="80" height="100" as="geometry" />
+          <mxGeometry x="255" y="290" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="IIi3D1vKagUlkLvtEHmu-120" value="类型检测表&lt;div&gt;占比计算栏&lt;/div&gt;&lt;div&gt;通过记录表&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE6CC;" vertex="1" parent="1">
           <mxGeometry x="380" y="290" width="80" height="100" as="geometry" />
@@ -377,6 +377,9 @@
               <mxPoint x="570" y="340" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="IIi3D1vKagUlkLvtEHmu-128" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;strokeColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="290" width="410" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
