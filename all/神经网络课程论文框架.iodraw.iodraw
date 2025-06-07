@@ -9,7 +9,7 @@
             <mxPoint x="420" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-1" value="视频输入" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-1" value="视频输入" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=#B3B3B3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#EFF2E5;" parent="1" vertex="1">
           <mxGeometry x="70" y="210" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#B3B3B3;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="2z8R_Hm_RZ3ocgZr2SeG-5" target="2z8R_Hm_RZ3ocgZr2SeG-7" edge="1">
@@ -329,7 +329,7 @@
           <mxGeometry x="495" y="1125" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IIi3D1vKagUlkLvtEHmu-56" value="Vehicle IMU" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;strokeWidth=2;fillColor=#FF0080;strokeColor=#B3B3B3;" vertex="1" parent="1">
-          <mxGeometry x="325" y="1050" width="80" height="60" as="geometry" />
+          <mxGeometry x="80" y="70" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
