@@ -16,7 +16,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2zNhirBuTjw6j_SKWOC9-3" value="EasyOCR.Reader" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFF4C3;" vertex="1" parent="1">
-          <mxGeometry x="340" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2zNhirBuTjw6j_SKWOC9-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#B3B3B3;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="2zNhirBuTjw6j_SKWOC9-5" target="2zNhirBuTjw6j_SKWOC9-7">
           <mxGeometry relative="1" as="geometry">
@@ -24,7 +24,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2zNhirBuTjw6j_SKWOC9-5" value="CRAFT检测" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#B3B3B3;fillColor=#CCFFCC;" vertex="1" parent="1">
-          <mxGeometry x="500" y="660" width="80" height="80" as="geometry" />
+          <mxGeometry x="510" y="660" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2zNhirBuTjw6j_SKWOC9-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#B3B3B3;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="2zNhirBuTjw6j_SKWOC9-7" target="2zNhirBuTjw6j_SKWOC9-10">
           <mxGeometry relative="1" as="geometry">
