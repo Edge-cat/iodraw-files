@@ -342,6 +342,9 @@
         <mxCell id="IIi3D1vKagUlkLvtEHmu-94" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;strokeColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="-340" y="450" width="320" height="300" as="geometry" />
         </mxCell>
+        <mxCell id="IIi3D1vKagUlkLvtEHmu-95" value="数据采集" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;horizontal=0;fontStyle=1;fontColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="525" width="40" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
