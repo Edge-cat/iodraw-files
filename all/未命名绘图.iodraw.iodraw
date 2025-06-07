@@ -28,7 +28,7 @@
         <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-7" value="单帧按比例&lt;div&gt;设置&lt;span style=&quot;background-color: initial;&quot;&gt;计数线&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="370" y="210" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2z8R_Hm_RZ3ocgZr2SeG-9" target="2z8R_Hm_RZ3ocgZr2SeG-11">
+        <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2z8R_Hm_RZ3ocgZr2SeG-9" target="2z8R_Hm_RZ3ocgZr2SeG-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="530" as="targetPoint" />
           </mxGeometry>
@@ -47,7 +47,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-11" value="车辆类型判定" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="220" y="290" width="120" height="70" as="geometry" />
+          <mxGeometry x="220" y="300" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-15" value="燃油车" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="520" width="20" height="55" as="geometry" />
@@ -61,7 +61,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-28" value="label=Fuel" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="300" y="380" width="80" height="60" as="geometry" />
+          <mxGeometry x="120" y="360" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2z8R_Hm_RZ3ocgZr2SeG-29" target="2z8R_Hm_RZ3ocgZr2SeG-31">
           <mxGeometry relative="1" as="geometry" />
