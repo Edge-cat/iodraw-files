@@ -45,12 +45,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2z8R_Hm_RZ3ocgZr2SeG-11" target="2z8R_Hm_RZ3ocgZr2SeG-29">
+        <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2z8R_Hm_RZ3ocgZr2SeG-11" target="2z8R_Hm_RZ3ocgZr2SeG-29">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="510" y="345" />
-              <mxPoint x="510" y="405" />
-              <mxPoint x="520" y="405" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -75,7 +73,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-29" value="label=Electric" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="480" y="430" width="80" height="60" as="geometry" />
+          <mxGeometry x="470" y="420" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2z8R_Hm_RZ3ocgZr2SeG-31" target="2z8R_Hm_RZ3ocgZr2SeG-40">
           <mxGeometry relative="1" as="geometry">
