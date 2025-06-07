@@ -36,7 +36,7 @@
         <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-9" value="YOLO11N目标检测" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="360" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2z8R_Hm_RZ3ocgZr2SeG-11" target="2z8R_Hm_RZ3ocgZr2SeG-22">
+        <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2z8R_Hm_RZ3ocgZr2SeG-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="500" y="640" as="targetPoint" />
             <Array as="points">
@@ -62,14 +62,11 @@
         <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-18" value="新能源车" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="570" width="20" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-22" value="label=Electric" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="450" y="640" width="100" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-28" value="label=Fuel" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="300" y="640" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-29" value="label=Fuel" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="310" y="650" width="80" height="60" as="geometry" />
+        <mxCell id="2z8R_Hm_RZ3ocgZr2SeG-29" value="label=Electric" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="460" y="720" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
