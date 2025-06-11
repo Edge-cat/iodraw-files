@@ -260,7 +260,7 @@
         <mxCell id="rxeHhGPylNCEKApfSC-N-104" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeWidth=2;strokeColor=#B3B3B3;fillColor=#EFF2E5;" vertex="1" parent="1">
           <mxGeometry x="440" y="140" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="rxeHhGPylNCEKApfSC-N-105" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeWidth=2;strokeColor=#B3B3B3;fillColor=#EFF2E5;" vertex="1" parent="1">
+        <mxCell id="rxeHhGPylNCEKApfSC-N-105" value="label=Electric" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeWidth=2;strokeColor=#B3B3B3;fillColor=#EFF2E5;" vertex="1" parent="1">
           <mxGeometry x="360" y="140" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-106" value="label=Fuel" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeWidth=2;strokeColor=#B3B3B3;fillColor=#EFF2E5;" vertex="1" parent="1">
