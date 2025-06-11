@@ -411,7 +411,7 @@
           <mxGeometry x="960" y="335" width="40" height="90" as="geometry" />
         </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-157" value="数据呈现" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;horizontal=0;fontStyle=1;fontColor=#4D4D4D;" vertex="1" parent="1">
-          <mxGeometry x="850" y="680" width="40" height="60" as="geometry" />
+          <mxGeometry x="1050" y="132.5" width="40" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
