@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rxeHhGPylNCEKApfSC-N-146" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;strokeColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="230" width="530" height="310" as="geometry" />
+        </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-147" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;strokeColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="610" y="105" width="420" height="80" as="geometry" />
         </mxCell>
@@ -302,7 +305,7 @@
               <mxPoint x="1150" y="365" />
               <mxPoint x="1150" y="410" />
               <mxPoint x="1560" y="410" />
-              <mxPoint x="1560" y="170" />
+              <mxPoint x="1560" y="145" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -371,9 +374,6 @@
         </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-140" value="数据采集" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;horizontal=0;fontStyle=1;fontColor=#4D4D4D;" vertex="1" parent="1">
           <mxGeometry x="610" y="370" width="40" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="rxeHhGPylNCEKApfSC-N-146" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;strokeColor=#B3B3B3;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="230" width="530" height="310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
