@@ -242,8 +242,8 @@
         <mxCell id="rxeHhGPylNCEKApfSC-N-95" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFF4C3;strokeColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="530" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rxeHhGPylNCEKApfSC-N-96" value="▲x&lt;sub&gt;1&lt;/sub&gt;-▲x&lt;sub&gt;2&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFF4C3;strokeColor=#B3B3B3;" vertex="1" parent="1">
-          <mxGeometry x="375" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="rxeHhGPylNCEKApfSC-N-96" value="▲x&lt;sub&gt;1&lt;/sub&gt;-▲x&lt;sub&gt;2&lt;/sub&gt;=" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFF4C3;strokeColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="376" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-97" value="燃油汽车" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFF4C3;strokeColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="354" y="90" width="120" height="60" as="geometry" />
