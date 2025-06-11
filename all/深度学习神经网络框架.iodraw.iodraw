@@ -206,7 +206,7 @@
         <mxCell id="rxeHhGPylNCEKApfSC-N-87" value="Final output processing" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=12;fontColor=#4D4D4D;fontStyle=1;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="395" y="825" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="rxeHhGPylNCEKApfSC-N-88" value="VideoCapturer&lt;br&gt;(30FPS)" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFF4C3;strokeColor=#B3B3B3;" vertex="1" parent="1">
+        <mxCell id="rxeHhGPylNCEKApfSC-N-88" value="PaddleOCR" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFF4C3;strokeColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="680" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
