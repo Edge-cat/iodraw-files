@@ -246,10 +246,10 @@
           <mxGeometry x="376" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-97" value="燃油汽车" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFF4C3;strokeColor=#B3B3B3;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="290" width="80" height="30" as="geometry" />
+          <mxGeometry x="1140" y="290" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-98" value="新能源汽车" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFF4C3;strokeColor=#B3B3B3;" vertex="1" parent="1">
-          <mxGeometry x="1330" y="290" width="80" height="30" as="geometry" />
+          <mxGeometry x="1340" y="290" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-102" value="detect-box" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeWidth=2;strokeColor=#B3B3B3;fillColor=#EFF2E5;" vertex="1" parent="1">
           <mxGeometry x="830" y="270" width="80" height="70" as="geometry" />
@@ -277,6 +277,12 @@
         </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-112" value="box的双坐标&lt;div&gt;通过计数线&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;strokeColor=#B3B3B3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#e1d5e7;" vertex="1" parent="1">
           <mxGeometry x="870" y="90" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rxeHhGPylNCEKApfSC-N-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rxeHhGPylNCEKApfSC-N-113" target="rxeHhGPylNCEKApfSC-N-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rxeHhGPylNCEKApfSC-N-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rxeHhGPylNCEKApfSC-N-113" target="rxeHhGPylNCEKApfSC-N-98">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-113" value="&lt;font color=&quot;#4d4d4d&quot;&gt;车辆类型判断&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#CCFFCC;fontColor=#B3B3B3;strokeColor=#B3B3B3;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1230" y="240" width="100" height="60" as="geometry" />
