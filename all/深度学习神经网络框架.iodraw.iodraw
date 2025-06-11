@@ -264,7 +264,7 @@
           <mxGeometry x="1240" y="350" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-106" value="label=Fuel" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeWidth=2;strokeColor=#B3B3B3;fillColor=#EFF2E5;" vertex="1" parent="1">
-          <mxGeometry x="980" y="350" width="80" height="70" as="geometry" />
+          <mxGeometry x="990" y="320" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#B3B3B3;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="rxeHhGPylNCEKApfSC-N-93" target="rxeHhGPylNCEKApfSC-N-102">
           <mxGeometry relative="1" as="geometry" />
