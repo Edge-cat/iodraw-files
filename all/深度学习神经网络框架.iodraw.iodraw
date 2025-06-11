@@ -333,7 +333,7 @@
           <mxGeometry x="530" y="240" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-136" value="类型检测表&lt;div&gt;计算占比栏&lt;/div&gt;&lt;div&gt;通过记录表&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;rounded=1;strokeColor=#B3B3B3;strokeWidth=2;align=center;verticalAlign=middle;arcSize=12;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#ffe6cc;" vertex="1" parent="1">
-          <mxGeometry x="560" y="380" width="80" height="100" as="geometry" />
+          <mxGeometry x="545" y="380" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-137" value="类型检测表" style="shape=card;whiteSpace=wrap;html=1;rounded=1;strokeColor=#B3B3B3;strokeWidth=2;align=center;verticalAlign=middle;arcSize=12;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#ffe6cc;" vertex="1" parent="1">
           <mxGeometry x="560" y="320" width="80" height="50" as="geometry" />
