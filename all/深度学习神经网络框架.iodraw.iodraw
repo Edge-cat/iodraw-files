@@ -14,7 +14,7 @@
           <mxGeometry x="610" y="105" width="420" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-141" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;strokeColor=#B3B3B3;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="110" width="180" height="90" as="geometry" />
+          <mxGeometry x="1180" y="110" width="270" height="90" as="geometry" />
         </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-139" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;strokeColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="610" y="230" width="330" height="310" as="geometry" />
@@ -377,13 +377,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-135" value="车牌记录表" style="shape=card;whiteSpace=wrap;html=1;rounded=1;strokeColor=#B3B3B3;strokeWidth=2;align=center;verticalAlign=middle;arcSize=12;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#ffe6cc;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="115" width="80" height="35" as="geometry" />
+          <mxGeometry x="1070" y="115" width="80" height="55" as="geometry" />
         </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-136" value="&lt;div&gt;通过记录表&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;rounded=1;strokeColor=#B3B3B3;strokeWidth=2;align=center;verticalAlign=middle;arcSize=12;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#ffe6cc;" vertex="1" parent="1">
           <mxGeometry x="1360" y="155" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-137" value="类型检测表" style="shape=card;whiteSpace=wrap;html=1;rounded=1;strokeColor=#B3B3B3;strokeWidth=2;align=center;verticalAlign=middle;arcSize=12;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#ffe6cc;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="155" width="80" height="35" as="geometry" />
+          <mxGeometry x="1280" y="120" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-138" value="计算占比栏" style="shape=card;whiteSpace=wrap;html=1;rounded=1;strokeColor=#B3B3B3;strokeWidth=2;align=center;verticalAlign=middle;arcSize=12;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#ffe6cc;" vertex="1" parent="1">
           <mxGeometry x="1360" y="120" width="80" height="35" as="geometry" />
