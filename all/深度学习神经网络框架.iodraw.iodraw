@@ -246,10 +246,10 @@
           <mxGeometry x="376" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-97" value="燃油汽车" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFF4C3;strokeColor=#B3B3B3;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="300" width="80" height="30" as="geometry" />
+          <mxGeometry x="1150" y="290" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-98" value="新能源汽车" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFF4C3;strokeColor=#B3B3B3;" vertex="1" parent="1">
-          <mxGeometry x="1330" y="300" width="80" height="30" as="geometry" />
+          <mxGeometry x="1330" y="290" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-102" value="detect-box" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeWidth=2;strokeColor=#B3B3B3;fillColor=#EFF2E5;" vertex="1" parent="1">
           <mxGeometry x="830" y="270" width="80" height="70" as="geometry" />
