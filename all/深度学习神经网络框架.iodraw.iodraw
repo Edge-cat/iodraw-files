@@ -339,7 +339,7 @@
           <mxGeometry x="530" y="290" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-138" value="计算占比栏" style="shape=card;whiteSpace=wrap;html=1;rounded=1;strokeColor=#B3B3B3;strokeWidth=2;align=center;verticalAlign=middle;arcSize=12;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#ffe6cc;" vertex="1" parent="1">
-          <mxGeometry x="630" y="230" width="80" height="50" as="geometry" />
+          <mxGeometry x="610" y="230" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
