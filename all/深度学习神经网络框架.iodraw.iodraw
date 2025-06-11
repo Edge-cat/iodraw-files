@@ -255,16 +255,16 @@
           <mxGeometry x="830" y="270" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-103" value="exit=Ture" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeWidth=2;strokeColor=#B3B3B3;fillColor=#EFF2E5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="525" y="140" width="80" height="70" as="geometry" />
+          <mxGeometry x="930" y="270" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-104" value="enter=True" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeWidth=2;strokeColor=#B3B3B3;fillColor=#EFF2E5;" vertex="1" parent="1">
-          <mxGeometry x="440" y="140" width="80" height="100" as="geometry" />
+          <mxGeometry x="1040" y="270" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-105" value="label=Electric" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeWidth=2;strokeColor=#B3B3B3;fillColor=#EFF2E5;" vertex="1" parent="1">
-          <mxGeometry x="360" y="140" width="80" height="100" as="geometry" />
+          <mxGeometry x="725" y="270" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-106" value="label=Fuel" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeWidth=2;strokeColor=#B3B3B3;fillColor=#EFF2E5;" vertex="1" parent="1">
-          <mxGeometry x="260" y="140" width="80" height="100" as="geometry" />
+          <mxGeometry x="605" y="270" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rxeHhGPylNCEKApfSC-N-93" target="rxeHhGPylNCEKApfSC-N-102">
           <mxGeometry relative="1" as="geometry" />
