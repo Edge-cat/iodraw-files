@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="rxeHhGPylNCEKApfSC-N-147" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;strokeColor=#B3B3B3;" vertex="1" parent="1">
-          <mxGeometry x="610" y="130" width="420" height="80" as="geometry" />
+          <mxGeometry x="610" y="110" width="420" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-141" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;strokeColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="1270" y="110" width="180" height="120" as="geometry" />
@@ -216,10 +216,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-88" value="PaddleOCR识别" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFF4C3;strokeColor=#B3B3B3;" vertex="1" parent="1">
-          <mxGeometry x="640" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-89" value="信息识别" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;horizontal=0;fontStyle=1;fontColor=#4D4D4D;" vertex="1" parent="1">
-          <mxGeometry x="605" y="140" width="40" height="60" as="geometry" />
+          <mxGeometry x="605" y="120" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#B3B3B3;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="rxeHhGPylNCEKApfSC-N-90" target="rxeHhGPylNCEKApfSC-N-91">
           <mxGeometry relative="1" as="geometry" />
@@ -266,6 +266,9 @@
         <mxCell id="rxeHhGPylNCEKApfSC-N-98" value="新能源汽车" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFF4C3;strokeColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="1340" y="290" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="rxeHhGPylNCEKApfSC-N-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rxeHhGPylNCEKApfSC-N-102" target="rxeHhGPylNCEKApfSC-N-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-102" value="detect-box" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeWidth=2;strokeColor=#B3B3B3;fillColor=#EFF2E5;" vertex="1" parent="1">
           <mxGeometry x="830" y="250" width="80" height="70" as="geometry" />
         </mxCell>
@@ -310,10 +313,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-110" value="车牌信息" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeWidth=2;strokeColor=#B3B3B3;fillColor=#EFF2E5;" vertex="1" parent="1">
-          <mxGeometry x="940" y="140" width="80" height="60" as="geometry" />
+          <mxGeometry x="940" y="120" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-111" value="box区域&lt;div&gt;采取capture&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;strokeColor=#B3B3B3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#e1d5e7;" vertex="1" parent="1">
-          <mxGeometry x="800" y="140" width="100" height="60" as="geometry" />
+          <mxGeometry x="800" y="120" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#B3B3B3;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="rxeHhGPylNCEKApfSC-N-112" target="rxeHhGPylNCEKApfSC-N-114">
           <mxGeometry relative="1" as="geometry" />
