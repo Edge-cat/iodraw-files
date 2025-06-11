@@ -396,7 +396,7 @@
           <mxGeometry x="1280" y="115" width="80" height="55" as="geometry" />
         </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-140" value="数据采集" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;horizontal=0;fontStyle=1;fontColor=#4D4D4D;" vertex="1" parent="1">
-          <mxGeometry x="610" y="370" width="40" height="60" as="geometry" />
+          <mxGeometry x="605" y="350" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=65;exitDy=15;exitPerimeter=0;entryX=0;entryY=0;entryDx=15;entryDy=15;entryPerimeter=0;dashed=1;strokeColor=#B3B3B3;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="rxeHhGPylNCEKApfSC-N-110" target="rxeHhGPylNCEKApfSC-N-135">
           <mxGeometry relative="1" as="geometry">
