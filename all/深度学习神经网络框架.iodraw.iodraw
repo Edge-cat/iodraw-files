@@ -251,6 +251,9 @@
         <mxCell id="rxeHhGPylNCEKApfSC-N-97" value="燃油汽车" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFF4C3;strokeColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="1140" y="290" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="rxeHhGPylNCEKApfSC-N-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rxeHhGPylNCEKApfSC-N-98" target="rxeHhGPylNCEKApfSC-N-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-98" value="新能源汽车" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFF4C3;strokeColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="1340" y="290" width="80" height="30" as="geometry" />
         </mxCell>
@@ -279,7 +282,7 @@
           <mxGeometry x="740" y="100" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-112" value="box的双坐标&lt;div&gt;通过计数线&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;strokeColor=#B3B3B3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#e1d5e7;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="380" width="100" height="60" as="geometry" />
+          <mxGeometry x="1240" y="370" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rxeHhGPylNCEKApfSC-N-113" target="rxeHhGPylNCEKApfSC-N-97">
           <mxGeometry relative="1" as="geometry" />
