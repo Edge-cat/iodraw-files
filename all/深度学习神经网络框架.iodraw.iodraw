@@ -206,7 +206,7 @@
         <mxCell id="rxeHhGPylNCEKApfSC-N-87" value="Final output processing" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=12;fontColor=#4D4D4D;fontStyle=1;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="395" y="825" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="rxeHhGPylNCEKApfSC-N-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rxeHhGPylNCEKApfSC-N-88" target="rxeHhGPylNCEKApfSC-N-111">
+        <mxCell id="rxeHhGPylNCEKApfSC-N-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#B3B3B3;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="rxeHhGPylNCEKApfSC-N-88" target="rxeHhGPylNCEKApfSC-N-111">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-88" value="PaddleOCR识别" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFF4C3;strokeColor=#B3B3B3;" vertex="1" parent="1">
@@ -334,6 +334,9 @@
         </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-138" value="计算占比栏" style="shape=card;whiteSpace=wrap;html=1;rounded=1;strokeColor=#B3B3B3;strokeWidth=2;align=center;verticalAlign=middle;arcSize=12;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#ffe6cc;" vertex="1" parent="1">
           <mxGeometry x="1360" y="120" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rxeHhGPylNCEKApfSC-N-140" value="信息识别" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;horizontal=0;fontStyle=1;fontColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="530" y="270" width="40" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
