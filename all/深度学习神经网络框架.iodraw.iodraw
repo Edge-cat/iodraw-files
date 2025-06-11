@@ -281,7 +281,7 @@
         <mxCell id="rxeHhGPylNCEKApfSC-N-113" value="&lt;font color=&quot;#4d4d4d&quot;&gt;车辆类型判断&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#CCFFCC;fontColor=#B3B3B3;strokeColor=#B3B3B3;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="870" y="600" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rxeHhGPylNCEKApfSC-N-114" value="&lt;font color=&quot;#4d4d4d&quot;&gt;Data offloading&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#CCFFCC;fontColor=#B3B3B3;strokeColor=#B3B3B3;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="rxeHhGPylNCEKApfSC-N-114" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;x&lt;/span&gt;&lt;sub style=&quot;color: rgb(0, 0, 0);&quot;&gt;1&lt;/sub&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;、&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;x&lt;/span&gt;&lt;sub style=&quot;color: rgb(0, 0, 0);&quot;&gt;2&lt;/sub&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;相位计算&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#CCFFCC;fontColor=#B3B3B3;strokeColor=#B3B3B3;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="860" y="700" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
