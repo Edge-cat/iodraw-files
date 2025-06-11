@@ -5,16 +5,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="rxeHhGPylNCEKApfSC-N-152" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;strokeColor=#B3B3B3;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="100" width="410" height="90" as="geometry" />
+          <mxGeometry x="1070" y="120" width="410" height="90" as="geometry" />
         </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-146" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;strokeColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="960" y="230" width="530" height="310" as="geometry" />
         </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-147" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;strokeColor=#B3B3B3;" vertex="1" parent="1">
-          <mxGeometry x="610" y="100" width="420" height="90" as="geometry" />
+          <mxGeometry x="610" y="120" width="420" height="90" as="geometry" />
         </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-141" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;strokeColor=#B3B3B3;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="110" width="270" height="70" as="geometry" />
+          <mxGeometry x="1180" y="130" width="270" height="70" as="geometry" />
         </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-139" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;strokeColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="610" y="230" width="330" height="310" as="geometry" />
@@ -222,10 +222,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-88" value="PaddleOCR识别" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFF4C3;strokeColor=#B3B3B3;" vertex="1" parent="1">
-          <mxGeometry x="640" y="115" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="135" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-89" value="信息识别" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;horizontal=0;fontStyle=1;fontColor=#4D4D4D;" vertex="1" parent="1">
-          <mxGeometry x="605" y="115" width="40" height="60" as="geometry" />
+          <mxGeometry x="605" y="135" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#B3B3B3;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="rxeHhGPylNCEKApfSC-N-90" target="rxeHhGPylNCEKApfSC-N-91">
           <mxGeometry relative="1" as="geometry" />
@@ -275,16 +275,17 @@
         <mxCell id="rxeHhGPylNCEKApfSC-N-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;strokeColor=#B3B3B3;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="rxeHhGPylNCEKApfSC-N-102" target="rxeHhGPylNCEKApfSC-N-88">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="870" y="210" />
-              <mxPoint x="700" y="210" />
+              <mxPoint x="870" y="220" />
+              <mxPoint x="700" y="220" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeColor=#B3B3B3;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="rxeHhGPylNCEKApfSC-N-102" target="rxeHhGPylNCEKApfSC-N-113">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="870" y="210" />
-              <mxPoint x="1280" y="210" />
+              <mxPoint x="870" y="220" />
+              <mxPoint x="1280" y="220" />
+              <mxPoint x="1280" y="240" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -332,10 +333,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-110" value="车牌信息" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeWidth=2;strokeColor=#B3B3B3;fillColor=#EFF2E5;" vertex="1" parent="1">
-          <mxGeometry x="940" y="115" width="80" height="60" as="geometry" />
+          <mxGeometry x="940" y="135" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-111" value="box区域&lt;div&gt;采取capture&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;strokeColor=#B3B3B3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#e1d5e7;" vertex="1" parent="1">
-          <mxGeometry x="800" y="115" width="100" height="60" as="geometry" />
+          <mxGeometry x="800" y="135" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#B3B3B3;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="rxeHhGPylNCEKApfSC-N-112" target="rxeHhGPylNCEKApfSC-N-114">
           <mxGeometry relative="1" as="geometry" />
@@ -379,21 +380,21 @@
         <mxCell id="rxeHhGPylNCEKApfSC-N-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;strokeColor=#B3B3B3;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" edge="1" parent="1" source="rxeHhGPylNCEKApfSC-N-135" target="rxeHhGPylNCEKApfSC-N-141">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1180" y="143" />
+              <mxPoint x="1180" y="163" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-135" value="车牌记录表" style="shape=card;whiteSpace=wrap;html=1;rounded=1;strokeColor=#B3B3B3;strokeWidth=2;align=center;verticalAlign=middle;arcSize=12;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#ffe6cc;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="115" width="80" height="55" as="geometry" />
+          <mxGeometry x="1080" y="135" width="80" height="55" as="geometry" />
         </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-136" value="&lt;div&gt;通过记录表&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;rounded=1;strokeColor=#B3B3B3;strokeWidth=2;align=center;verticalAlign=middle;arcSize=12;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#ffe6cc;" vertex="1" parent="1">
-          <mxGeometry x="1360" y="115" width="80" height="55" as="geometry" />
+          <mxGeometry x="1360" y="135" width="80" height="55" as="geometry" />
         </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-137" value="类型检测表" style="shape=card;whiteSpace=wrap;html=1;rounded=1;strokeColor=#B3B3B3;strokeWidth=2;align=center;verticalAlign=middle;arcSize=12;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#ffe6cc;" vertex="1" parent="1">
-          <mxGeometry x="1201" y="115" width="80" height="55" as="geometry" />
+          <mxGeometry x="1201" y="135" width="80" height="55" as="geometry" />
         </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-138" value="计算占比栏" style="shape=card;whiteSpace=wrap;html=1;rounded=1;strokeColor=#B3B3B3;strokeWidth=2;align=center;verticalAlign=middle;arcSize=12;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#ffe6cc;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="115" width="80" height="55" as="geometry" />
+          <mxGeometry x="1280" y="135" width="80" height="55" as="geometry" />
         </mxCell>
         <mxCell id="rxeHhGPylNCEKApfSC-N-140" value="数据采集" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;horizontal=0;fontStyle=1;fontColor=#4D4D4D;" vertex="1" parent="1">
           <mxGeometry x="605" y="350" width="40" height="60" as="geometry" />
@@ -401,8 +402,8 @@
         <mxCell id="rxeHhGPylNCEKApfSC-N-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=65;exitDy=15;exitPerimeter=0;entryX=0;entryY=0;entryDx=15;entryDy=15;entryPerimeter=0;dashed=1;strokeColor=#B3B3B3;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="rxeHhGPylNCEKApfSC-N-110" target="rxeHhGPylNCEKApfSC-N-135">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1005" y="110" />
-              <mxPoint x="1095" y="110" />
+              <mxPoint x="1005" y="130" />
+              <mxPoint x="1095" y="130" />
             </Array>
           </mxGeometry>
         </mxCell>
