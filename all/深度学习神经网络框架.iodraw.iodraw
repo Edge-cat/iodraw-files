@@ -269,6 +269,9 @@
         <mxCell id="rxeHhGPylNCEKApfSC-N-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rxeHhGPylNCEKApfSC-N-93" target="rxeHhGPylNCEKApfSC-N-102">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="rxeHhGPylNCEKApfSC-N-110" value="车牌信息" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeWidth=2;strokeColor=#B3B3B3;fillColor=#EFF2E5;" vertex="1" parent="1">
+          <mxGeometry x="130" y="140" width="80" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
